@@ -1,0 +1,229 @@
+.extreme_left{ 
+    
+    display: inline-block;
+     
+    flex: 1;
+    background-color: #e7e9eb;
+    text-align: start;
+    padding: 8px;
+    font-family: 'Poiret One', cursive;
+    height: 100%;
+    overflow: scroll;
+    position: relative;
+    
+     
+  }
+
+  .mid_part_big_container{
+
+  }
+
+   
+
+  .tutorial{
+    /* position: sticky; */
+    /* overflow: scroll; */
+    /* height: 100%; */
+    /* margin: 5px 20px; */
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    /* top: 0px; */
+  }
+
+  aside .extreme_left{
+    /* overflow: scroll; */
+    /* height: 100%; */
+  }
+
+  aside a{
+    display: block;
+    /* padding: 3px; */
+    font-weight:lighter;
+    text-decoration: none;
+    color: rgb(95, 95, 95);
+    font-size: 18px;
+    padding: 5px;
+  }
+  aside a:hover{
+    background-color: #3c3d49;
+    color: white;
+  }
+
+
+  .tutorial h1{
+    color: rgb(0, 0, 0);
+    font-size: 31px;
+    padding-top: 8px;
+    padding-left: 3px;
+     
+/* padding: 10px 0px; */
+    
+  }
+
+  .tutorial p{
+    padding: 9px;
+    
+  }
+
+  
+  /* Side bar part end here  */
+
+
+
+  /* Mid Part start here */
+
+  .middle_section{
+    display: inline-block;
+    flex: 5;
+    /* width: 69%; */
+    height: 100%;
+    /* flex-direction: column; */
+    position: relative;
+    /* top: 100px; */
+    /* position: absolute; */
+    /* float: left; */
+    /* z-index: -1; */
+
+  }
+  /* Ads block */
+.wrapper_ads{
+  width: 85%;
+  margin: 11px;
+  /* display: flex; */
+  /* float: left; */
+  
+  position: absolute;
+  /* to */
+  /* left: 6.8%; */
+  /* padding: 0px auto; */
+}
+
+.image_ads{
+  width: 200px;
+  height: 98%;
+  padding: 10px;
+}
+.all_content{
+  width: 70%;
+}
+
+.ad_bottom{
+  justify-content: space-between;
+}
+
+.all_content p{
+  font-size: 15px;
+  color: grey;
+}
+
+.all_content h2{
+  padding: 0px 0px;
+}
+
+.middle_section{
+  /* position: fixed; */
+  /* float: left; */
+}
+
+   /* Mid Part end here */
+
+   /* right side ASIDE CSS START HERE */
+
+   .extreme_right{ 
+    
+    display: inline-block;
+     
+    flex: 1;
+    background-color: #e7e9eb;
+    text-align: start;
+    padding: 8px;
+    font-family: 'Poiret One', cursive;
+    height: 100%;
+    overflow: scroll;
+    position: relative;
+    
+     
+  }
+   
+
+
+   .ads{
+    width: 98%;
+    text-align: center;
+    padding-top: 20px;
+      /* padding: 0px auto; */
+      /* margin: auto; */
+   }
+   .image_ad{
+     /* margin: 0px auto; */
+   }
+
+
+   
+  .mid_part_big_container{
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+
+  .extreme_left{
+   /* flex: 2.5; */
+   width: 12%;
+   position: absolute;
+   top: 0px;
+   left: 0px;
+   /* height: 100vh; */
+   /* height: 100%; */
+   overflow: scroll;
+   /* margin: 10px; */
+   /* position: relative; */
+   /* top: 170px; */
+  }
+
+  .extreme_left_content a{
+    display: block;
+  }
+
+
+ .middle_section{
+  /* flex: 7; */
+  width: 70%;
+  /* height: 100vh; */
+  flex-direction: column;
+  position: absolute;
+   top: 0px;
+   left: 150px;
+   
+ }
+
+ .wrapper_ads{
+  width: 80%;
+  display: inline-block;
+  /* margin: 0px auto; */
+ }
+
+ 
+
+ .extreme_right{
+  /* flex: 2.5; */
+  width: 14%;
+  /* height: 100%; */
+  overflow: scroll;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+ }
+
+ .extreme_right_content a{
+  display: block;
+}
+
+
+
+   
+     
+
+         
+
+       
